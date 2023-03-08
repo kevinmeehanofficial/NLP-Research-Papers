@@ -1,6 +1,6 @@
 # NLP-Research-Papers
 
-This repository contains leading research papers that I found insightful from leading institutions around the world, categorized by topic.
+This repository is categorized by topic and it contains leading NLP research papers which I found insightful.
 
 If you have any papers you would like to add to this list, which you also found insightful, please let me know.
 
